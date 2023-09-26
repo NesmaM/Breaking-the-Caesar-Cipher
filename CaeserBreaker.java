@@ -1,10 +1,9 @@
 import edu.duke.*;
 
-/**
- * Write a description of CaeserBreaker here.
+ * Write a description of CaesarCipher here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Nesma Abouzaid) 
+ * @version (07/09/2023)
  */
 public class CaeserBreaker {
     int[] countLetters(String message){
