@@ -1,11 +1,10 @@
 import java.util.Random;
 import edu.duke.*;
 
-/**
- * Write a description of CountCommonWords here.
+ * Write a description of CaesarCipher here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Nesma Abouzaid) 
+ * @version (07/09/2023)
  */
 public class CountCommonWords {
     public String[] getCommon(){
